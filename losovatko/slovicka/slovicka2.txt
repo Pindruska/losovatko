@@ -1,0 +1,10 @@
+dog
+cat
+bird
+snake
+cow
+sheep
+chicken
+snail
+fish
+rabbit

@@ -1,0 +1,12 @@
+apple
+pear
+banana
+melon
+orange
+cucumber
+potato
+tomato
+broccoli
+letuce
+corn
+onion
